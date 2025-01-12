@@ -1,0 +1,7 @@
+[package]
+name = "format-enum"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Chad Skeeters"]
+license = ""
+description = "Formatting for enum (bulleted lists)"
